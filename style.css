@@ -18,5 +18,7 @@ img {
   border: 2px solid black;
   margin: 20px;
   padding: 20px;
-  display:inline-block;
+  display:flex;
+  justify-content: space-between;
+  
 }
