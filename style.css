@@ -32,8 +32,7 @@ section {
 p {
   line-height: 1.6;
 }
-
-blockquote {
+.quote {
   font-style: italic;
   margin: 20px 0;
   padding: 0 20px;
